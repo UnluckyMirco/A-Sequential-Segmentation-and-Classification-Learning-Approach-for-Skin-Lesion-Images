@@ -18,6 +18,26 @@ The HAM dataset consists of ten thousand images divided into seven classes:
 
 - **Vascular Lesions** (VASC): Vascular lesions include a range of conditions characterized by abnormal proliferation or dilation of blood or lymphatic vessels. %Common examples are hemangiomas and vascular malformations. They typically present as red or purplish spots or nodules.
 
+## Kvasir and its 8 Classes
+
+The Kvasir dataset contains endoscopic gastrointestinal images distributed across eight clinically relevant categories:
+
+- **Dyed Lifted Polyps** (DLP): Dyed lifted polyps appear during colonoscopy after submucosal injection, which elevates the lesion to facilitate polypectomy. %The application of dye enhances lesion visibility and boundary definition.
+
+- **Dyed Resection Margins** (DRM): Dyed resection margins refer to post-resection areas highlighted with dye to assess the completeness of polyp removal. %They are used to identify residual neoplastic tissue and guide further clinical intervention.
+
+- **Esophagitis** (ESO): Esophagitis represents inflammatory irritation of the esophageal mucosa, commonly caused by acid reflux or infection. %It may present as erythema, erosions, or mucosal breaks.
+
+- **Normal Cecum** (N-CE): Normal cecum indicates healthy mucosa at the initial portion of the large intestine. %It is typically used as a reference to evaluate the anatomical completeness of colonoscopy.
+
+- **Normal Pylorus** (N-PY): Normal pylorus represents the region between the stomach and duodenum with intact mucosal architecture. %It is free of pathological signs and often serves as a baseline comparison in gastric evaluations.
+
+- **Normal Z-line** (N-Z): Normal Z-line is the squamocolumnar junction separating the esophageal and gastric epithelia. %A regular Z-line indicates the absence of Barrett’s esophagus, dysplasia, or chronic inflammation.
+
+- **Polyps** (POL): Polyps are abnormal mucosal growths predominantly found in the colon. %While often benign, they may undergo dysplastic transformation, making their detection and removal critical in colorectal cancer prevention.
+
+- **Ulcerative Colitis** (UC): Ulcerative colitis is a chronic inflammatory bowel disease characterized by ulcers, mucosal bleeding, and erythema. %It may show diffuse inflammation and mucosal friability along the colon.
+
 | Dataset |  Original classes | Selected images cardinality | Download link |
 |:-----|:-----:|-----:|-----:|
 | HAM 10000 [[1]](#1) | 7 | 10.015 | https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBW86T |
@@ -34,7 +54,9 @@ Currently acceptec at: "Biomedical Engineering" in the special issue: "AI-Based 
 ## References
 
 <a id="1">[1]</a>
-Tschandl, Philipp, Cliff Rosendahl, and Harald Kittler. "The HAM10000 dataset, a large collection of multi-source dermatoscopic images of common pigmented skin lesions." Scientific data 5.1 (2018): 1-9.
+Tschandl, Philipp, Cliff Rosendahl, and Harald Kittler.
+"The HAM10000 dataset, a large collection of multi-source dermatoscopic images of common pigmented skin lesions."
+Scientific data 5.1 (2018): 1-9.
 
 <a id="2">[2]</a>  
 Pogorelov, K.; Randel, P.; de Lange, T.; Jha, D.; Johansen, D.; et al.  
