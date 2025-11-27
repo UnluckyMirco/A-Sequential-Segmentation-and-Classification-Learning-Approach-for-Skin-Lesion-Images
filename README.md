@@ -12,7 +12,7 @@ Please note that we did not include the experiments where HAM was internally spl
 The HAM dataset consists of ten thousand images divided into seven classes: 
 - **Melanoma** (MEL): Melanoma is a malignant neoplasm originating from melanocytes, the cells responsible for skin pigmentation. It represents the most lethal form of skin cancer, characterized by high morphological variability and a tendency for early metastasis.
 
-- **Melanocytic Nevi** (NV): Melanocytic nevi are benign lesions comprised of localized accumulations of melanocytes. %They are among the most common skin lesions, exhibiting a wide range of morphological appearances, typically circumscribed and with uniform pigmentation.
+- **Melanocytic Nevi** (NV): Melanocytic nevi are benign lesions comprised of localized accumulations of melanocytes. They are among the most common skin lesions, exhibiting a wide range of morphological appearances, typically circumscribed and with uniform pigmentation.
 
 - **Basal Cell Carcinoma** (BCC): Basal cell carcinoma is the most common form of skin cancer, originating from the basal cells of the epidermal layer. It is characterized by slow growth and a low risk of metastasis, typically manifesting as nodular or ulcerative lesions.
 
