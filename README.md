@@ -21,8 +21,8 @@ The HAM dataset consists of ten thousand images divided into seven classes:
 | Dataset |  Original classes | Selected images cardinality | Download link |
 |:-----|:-----:|-----:|-----:|
 | HAM 10000 [[1]](#1) | 7 | 10.015 | https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBW86T |
-| Kvasir-Classification [2] | 8 | 8.000 | https://datasets.simula.no/kvasir/ |
-| Kvasir-Segmentation [3] | Polyp segmentation | 1.000 images + masks | https://datasets.simula.no/kvasir-seg/ |
+| Kvasir-Classification [[2]](#2) | 8 | 8.000 | https://datasets.simula.no/kvasir/ |
+| Kvasir-Segmentation [[3]](#3) | Polyp segmentation | 1.000 images + masks | https://datasets.simula.no/kvasir-seg/ |
 
 
 ## Cite
@@ -35,6 +35,7 @@ Currently acceptec at: "Biomedical Engineering" in the special issue: "AI-Based 
 
 <a id="1">[1]</a>
 Tschandl, Philipp, Cliff Rosendahl, and Harald Kittler. "The HAM10000 dataset, a large collection of multi-source dermatoscopic images of common pigmented skin lesions." Scientific data 5.1 (2018): 1-9.
+
 <a id="2">[2]</a>  
 Pogorelov, K.; Randel, P.; de Lange, T.; Jha, D.; Johansen, D.; et al.  
 Kvasir: A Multi-Class Image Dataset for Computer Aided Gastrointestinal Disease Detection.  
