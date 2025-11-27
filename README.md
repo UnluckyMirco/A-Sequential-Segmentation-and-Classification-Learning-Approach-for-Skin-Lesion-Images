@@ -1,8 +1,10 @@
 # A-Sequential-Segmentation-and-Classification-Learning-Approach-for-Skin-Lesion-Images
 This is the repository of the paper "A Sequential Segmentation and Classification Learning Approach for Skin Lesion Images", which contains the notebooks of the experiments presented in the paper. For each dataset considered, a short explanation and references are presented.
 
-In the folders "HAM Experiments" and "Kvasir Experiments", you will find all the files associated with the two experimental configurations presented in the paper.
-Inside each of these directories, you will also find a subfolder named "Dataset Composition", which contains Excel files detailing the exact dataset splits used in our experiments. These files allow full reproduction of the original training, validation, and testing partitions, enabling users to recreate the same data splits and run the notebooks under identical conditions.
+In the folders "HAM Experiments" and "Kvasir Experiments", you will find all files related to the two experimental configurations presented in the paper.
+Inside each of these directories, you will also find a subfolder named "Dataset Composition", which contains Excel files documenting the exact dataset splits used in our experiments. These files allow full reproduction of the original training, validation, and testing partitions, enabling users to recreate identical splits and execute the notebooks under the same experimental conditions.
+
+Please note that we did not include the experiments where HAM was internally split into training, validation, and test sets, as these results were not particularly relevant to our analysis. However, should there be interest, we would be happy to share these additional files upon request via email.
 
 
 ## HAM 10000 and its 7 classes
