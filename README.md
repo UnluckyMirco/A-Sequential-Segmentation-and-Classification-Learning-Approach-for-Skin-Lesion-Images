@@ -25,6 +25,8 @@ The HAM dataset consists of ten thousand images divided into seven classes:
 
 ## Cite
 To ensure proper attribution, we kindly request you to cite our paper when using this information:
+_add link to the paper once is published_
+Currently acceptec at: "Biomedical Engineering" in the special issue: "AI-Based Biomedical Signal Processing—2nd Edition"
 
 
 ## References
